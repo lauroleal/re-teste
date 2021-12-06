@@ -8,4 +8,6 @@
 @@ text in purple (and bold)@@
 ```
 
-```diff + Executar o comando ``` ```diff - `node estudantes.js` ``` ```diff + no terminal no arquivo estudantes.js!```
+```diff
++ Executar o comando - `node estudantes.js` + no terminal no arquivo estudantes.js!
+```
