@@ -9,5 +9,5 @@
 ```
 
 ```diff
-@+ Executar o comando `node estudantes.js` no terminal no arquivo estudantes.js!@
+@@ + Executar o comando `node estudantes.js` no terminal no arquivo estudantes.js! @@
 ```
